@@ -1,2 +1,2 @@
 # Book Recommendation System on KaggleDataSet -  https://www.kaggle.com/arashnic/book-recommendation-dataset?select=Books.csv
-Ml algorithm which based on Collaborative Filtering to filterout books based similar users ratings.<br> check Book_ Recommender.<br><h2> ipynb from ML based knowledge and (book.py) for BackEnd interaction to ML [ pickle file ].</h2>
+Ml algorithm which based on Collaborative Filtering to filterout books based similar users ratings.<br> <br><h2>check Book_ Recommender. ipynb from ML based knowledge and (book.py) for BackEnd interaction to ML [ pickle file ].</h2>
